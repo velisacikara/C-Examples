@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_Creating_a_square_root_function", "004_Creating_a_square_root_function.vcxproj", "{93E513E6-7BFA-499E-BFE8-8A53A49137A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Debug|x64.ActiveCfg = Debug|x64
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Debug|x64.Build.0 = Debug|x64
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Debug|x86.Build.0 = Debug|Win32
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Release|x64.ActiveCfg = Release|x64
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Release|x64.Build.0 = Release|x64
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Release|x86.ActiveCfg = Release|Win32
+		{93E513E6-7BFA-499E-BFE8-8A53A49137A9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08DCC94C-DB13-4B89-AEDC-CE7F77A07E75}
+	EndGlobalSection
+EndGlobal
